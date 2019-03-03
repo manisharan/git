@@ -1,0 +1,16 @@
+.settings
+.gitattributes
+.gradle
+build/
+bin/
+*.class
+*.classpath
+*.project
+graph.db/
+*.log
+*.log.zip
+.pmd
+.idea
+*.iml
+*.log.zip
+out
